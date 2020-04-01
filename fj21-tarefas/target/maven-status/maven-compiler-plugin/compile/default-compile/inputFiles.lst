@@ -1,0 +1,16 @@
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\jpa\BuscaTarefas.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\jpa\RemoveTarefa.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\dao\TarefaDao.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\jpa\GeraTabelas.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\model\Tarefa.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\ConnectionFactory\ConnectionFactory.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\jpa\AdicionaTarefa.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\controller\OlaMundoController.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\interceptor\AutorizadorInterceptor.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\controller\LoginController.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\jpa\CarregaTarefa.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\controller\TarefasController.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\jpa\EditarTarefa.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\dao\JdbcTarefaDao.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\dao\JdbcUsuarioDao.java
+C:\Users\wsilva6\Documents\f21-tarefasHibernate\src\br\com\caelum\tarefas\model\Usuario.java
