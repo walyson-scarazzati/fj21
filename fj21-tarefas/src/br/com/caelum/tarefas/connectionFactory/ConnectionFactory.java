@@ -23,7 +23,7 @@ public class ConnectionFactory {
             throw new SQLException(e);
         }
 
-        return DriverManager.getConnection("jdbc:mysql://localhost/fj21?useSSL=false&createDatabaseIfNotExist=true",
+        return DriverManager.getConnection("jdbc:mysql://localhost/fj21Tarefas?useSSL=false&createDatabaseIfNotExist=true",
                 "root", "123456");
     }
 }
