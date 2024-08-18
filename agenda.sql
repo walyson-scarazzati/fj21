@@ -1,4 +1,4 @@
-create database agenda;
+CREATE DATABASE IF NOT EXISTS agenda;
 
 use agenda;
 
