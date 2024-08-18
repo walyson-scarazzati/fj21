@@ -3,7 +3,7 @@
 - Tomcat 8.0 by placing the project there, another configuration to make is this selection in Tomcat:
 <img src="https://github.com/walyson-scarazzati/OqueSpringMVCDevmedia/assets/53382989/4c4a08db-8ddc-4cce-a7f0-c09670235fb9" alt="Descrição da Imagem" width="600" height="400" />
 
-- Acess http://localhost:9090/agendaFinal/ user:teste e password:teste
+- Access http://localhost:9090/agendaFinal/ user:teste e password:teste
 ![image](https://github.com/user-attachments/assets/d6a45889-c288-4ee7-9687-1e7cb509c7b7)
 
 
